@@ -3,7 +3,7 @@
 I'm developer and blogger
 
 🔭 I’m creator of
-- [tabint - Tabular data interpretation and explanation](ttps://github.com/KienVu2368/tabint)
+- [tabint - Tabular data interpretation and explanation](https://github.com/KienVu2368/tabint)
 - [hermesql - python SQL query builder](https://github.com/KienVu2368/Hermesql)
  
 
