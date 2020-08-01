@@ -2,7 +2,7 @@
 
 I'm developer and blogger
 
-🔭 I’m creator of
+🔭 I’m creator and contributor of
 - [tabint - Tabular data interpretation and explanation](https://github.com/KienVu2368/tabint)
 - [hermesql - python SQL query builder](https://github.com/KienVu2368/Hermesql)
  
